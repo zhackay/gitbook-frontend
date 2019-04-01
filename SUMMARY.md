@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 
+<<<<<<< HEAD
 ## ES Next
 
 * [ES Next](react-es-next/es-next/README.md)
@@ -27,3 +28,5 @@
   * [Styling](react-es-next/material-ui/styling.md)
 * [CSS](react-es-next/css.md)
 * [GraphQL](react-es-next/graphql.md)
+=======
+>>>>>>> 611a27f3724aa4b4c48871f299fe59b473886681
