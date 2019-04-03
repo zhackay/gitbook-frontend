@@ -2,22 +2,6 @@
 
 ## export default Class
 
-{% tabs %}
-{% tab title="First Tab" %}
-```javascript
-import React from 'react';
-
-class Button extends React.Component {
-  render() {
-    // ...
-  }
-}
-
-export default Button;
-```
-{% endtab %}
-
-{% tab title="Second Tab" %}
 ```javascript
 import React, { Component } from 'react';
 
@@ -29,8 +13,6 @@ class Button extends Component {
 
 export default Button;
 ```
-{% endtab %}
-{% endtabs %}
 
 ### inline
 
@@ -68,5 +50,7 @@ export default props =>
   </div>
 ```
 
+## Pure Component
 
+### Pure Component vs. Stateless component
 

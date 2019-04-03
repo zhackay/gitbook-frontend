@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Roadmap](roadmap.md)
 
 ## ES Next
 
@@ -23,15 +24,18 @@
   * [ESLINT](react/tools/eslint.md)
   * [Untitled](react/tools/untitled-1.md)
 * [React.js](react/react.js/README.md)
-  * [Component Patterns](react/react.js/component-patterns/README.md)
-    * [Dumb Component vs. Smart Component](react/react.js/component-patterns/dumb-component-vs.-smart-component.md)
+  * [Component Patterns](react/react-patterns/component-patterns.md)
   * [Articles to follow](react/react.js/articles-to-follow.md)
   * [Test Driven React](react/react.js/test-driven-react.md)
   * [E2E Testing React](react/react.js/e2e-testing-react.md)
   * [React and Spring - Maven](react/react.js/react-and-spring-maven.md)
+* [React Patterns](react/react-patterns/README.md)
+  * [Component Patterns](react/react-patterns/component-patterns.md)
+  * [Rendering Patterns](react/react-patterns/rendering-patterns.md)
 * [Material UI](react/material-ui/README.md)
   * [Getting Started](react/material-ui/getting-started.md)
   * [Styling](react/material-ui/styling.md)
+* [Server Side Rendering](react/server-side-rendering.md)
 * [CSS](react/css.md)
 * [GraphQL](react/graphql.md)
 
