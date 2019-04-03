@@ -24,7 +24,6 @@
   * [ESLINT](react/tools/eslint.md)
   * [Untitled](react/tools/untitled-1.md)
 * [React.js](react/react.js/README.md)
-  * [Component Patterns](react/react-patterns/component-patterns.md)
   * [Articles to follow](react/react.js/articles-to-follow.md)
   * [Test Driven React](react/react.js/test-driven-react.md)
   * [E2E Testing React](react/react.js/e2e-testing-react.md)
