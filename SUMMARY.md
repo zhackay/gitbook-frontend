@@ -33,12 +33,17 @@
   * [Babel and WebPack](react/tools/babel-and-webpack.md)
   * [ESLINT](react/tools/eslint.md)
   * [Untitled](react/tools/untitled-1.md)
+* [Tips](react/tips/README.md)
+  * [Micro - front - end](react/tips/micro-front-end.md)
+  * [Data Fetching](react/tips/data-fetching.md)
+  * [How to make react component really reusable](react/tips/how-to-make-react-component-really-reusable.md)
 
 ## ES Next
 
 * [ES Next](es-next/es-next/README.md)
   * [ES Basics](es-next/es-next/es-basics.md)
   * [ES Next](es-next/es-next/es-next.md)
+* [Typescript](es-next/typescript.md)
 
 ## Basic Web Design
 
